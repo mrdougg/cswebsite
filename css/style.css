@@ -1,6 +1,6 @@
-/* ============================================================================================== 
+/* ==============================================================================================
 This copyright notice must be kept untouched in the stylesheet at all times.
-The original version of this stylesheet and the associated (x)html 
+The original version of this stylesheet and the associated (x)html
 is available at http://www.script-tutorials.com/bootstrap-one-page-template-with-parallax-effect/
 Copyright (c) Script Tutorials. All rights reserved.
 This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
@@ -27,7 +27,7 @@ html, body {
   text-align: center;
   vertical-align: middle;
   color:white;
-  
+
   font-family: 'Open Sans', sans-serif;
   font-style: normal;
   font-variant: normal;
@@ -43,6 +43,10 @@ html, body {
   padding: 0;
 }
 
+.jumbotron {
+background:#fdfdfd
+
+}
 .navbar-wrapper{
   background:#000;
   opacity:0.8;
@@ -84,7 +88,7 @@ html, body {
 }
 /* additional sections */
 #home {
-  background: url('http://lh6.ggpht.com/0oTr1xdxIpgwQ3OZGgGYjHhThNmpbGT8OmpHvcu19Ml4JdKoRoNpVe7opCzu0BuB02phWRertVA9zkpvC1XefO9U=s2000') no-repeat center center fixed; 
+  background: url('http://lh6.ggpht.com/0oTr1xdxIpgwQ3OZGgGYjHhThNmpbGT8OmpHvcu19Ml4JdKoRoNpVe7opCzu0BuB02phWRertVA9zkpvC1XefO9U=s2000') no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
@@ -115,7 +119,7 @@ html, body {
 }
 
 #information {
-  background: url('http://lh6.ggpht.com/5vj0mhm9Lb6X82bwUWV9r6wN4uqgrukDdi3Rdl2CIvxCf10fFx5KMFpKRDCTtKpXDKBSjMlhd7BC1EIyLzBbTxw=s2000') no-repeat center center fixed; 
+  background: url('http://lh6.ggpht.com/5vj0mhm9Lb6X82bwUWV9r6wN4uqgrukDdi3Rdl2CIvxCf10fFx5KMFpKRDCTtKpXDKBSjMlhd7BC1EIyLzBbTxw=s2000') no-repeat center center fixed;
   display: table;
   height: 800px;
   position: relative;
