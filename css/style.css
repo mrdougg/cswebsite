@@ -44,8 +44,12 @@ html, body {
 }
 
 .jumbotron {
-background:#fdfdfd
+background-image:url("back1.jpg");
+background-repeat: repeat-y;
 
+}
+.backtest {
+  background-repeat: repeat-y;
 }
 .navbar-wrapper{
   background:#000;
